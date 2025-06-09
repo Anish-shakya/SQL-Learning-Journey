@@ -17,6 +17,7 @@
 |SqlBolt|https://sqlbolt.com/|
 |W3School|https://www.w3schools.com/sql/|
 |Datacamp|Data Analyst in SQL|
+|Data with Bara (Best One) |https://youtu.be/SSKVgrwhzus?si=qTP0QBRJgOR_lmXQ|
 
 <a id="table-of-contents"></a>
 ## Learning Logs 📑 
