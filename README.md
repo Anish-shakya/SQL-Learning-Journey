@@ -23,34 +23,34 @@
 ## Learning Logs 📑 
 | Day | Skill Learned |
 | ----------- | ----------- |
-| [1 - 6](#day-1-of-60days) | Basic SQL |
-| [7 - 13](#day-7-of-60days) | Intermediate SQL |
-| [14](#day-14-of-60days) | Set Theory for SQL Joins |
-| [15](#day-15-of-60days) | Subqueries |
-| [16 - 18](#day-16-of-60days) | Data manipulation With CASE Statement |
-| [19 - 23](#day-19-of-60days) | Simple Sub queries |
-| [24](#day-24-of-60days) | Correlated Sub queries |
-| [25](#day-25-of-60days) | Nested Sub queries |
-| [26 - 28](#day-26-of-60days) | Common Table Expression |
-| [29 - 32](#day-29-of-60days) | Sliding Window Function |
-| [33 - 34](#day-33-of-60days) | More Window Function |
-| [35 - 37](#day-35-of-60days) | Ranking Function |
-| [38 - 40](#day-38-of-60days) | Frames in SQL |
-| [41](#day-41-of-60days) | Pivoting in SQL |
-| [42](#day-42-of-60days) | RollUp, Cube, COALESCE |
-| [43 - 47](#day-43-of-60days) | Data Manipulation in SQL |
-| [48](#day-48-of-60days) | Temporary Tables in SQL |
-| [49 - 50](#day-49-of-60days) | Data Driven Decision Making |
-| [51](#day-51-of-60days) | Data Driven Decision Making with OLAP functions |
-| [52](#day-52-of-60days) | Data Storytelling Concepts |
-| [53](#day-53-of-60days) | Project 1 - [VideoGame](Projects/VideoGame.md) |
-| [54](#day-54-of-60days) | Project 2 - [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md) |
-| [55](#day-55-of-60days) | Case Study 1 - [Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md) |
-| [56](#day-56-of-60days) | Case Study 2 - [Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS2_Pizza_Runner/solution.md) |
-|||
+| [1 - 6](#day-1) | Basic SQL |
+| [7 - 13](#day-7) | Intermediate SQL |
+| [14](#day-14) | Set Theory for SQL Joins |
+| [15](#day-15) | Subqueries |
+| [16 - 18](#day-16) | Data manipulation With CASE Statement |
+| [19 - 23](#day-19) | Simple Sub queries |
+| [24](#day-24) | Correlated Sub queries |
+| [25](#day-25) | Nested Sub queries |
+| [26 - 28](#day-26) | Common Table Expression |
+| [29 - 32](#day-29) | Sliding Window Function |
+| [33 - 34](#day-33) | More Window Function |
+| [35 - 37](#day-35) | Ranking Function |
+| [38 - 40](#day-38) | Frames in SQL |
+| [41](#day-41) | Pivoting in SQL |
+| [42](#day-42) | RollUp, Cube, COALESCE |
+| [43 - 47](#day-43) | Data Manipulation in SQL |
+| [48](#day-48) | Temporary Tables in SQL |
+| [49 - 50](#day-49) | Data Driven Decision Making |
+| [51](#day-51) | Data Driven Decision Making with OLAP functions |
+| [52](#day-52) | Data Storytelling Concepts |
+| [53](#day-53) | Project 1 - [VideoGame](Projects/VideoGame.md) |
+| [54](#day-54) | Project 2 - [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md) |
+| [55](#day-55) | Case Study 1 - [Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md) |
+| [56](#day-56) | Case Study 2 - [Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS2_Pizza_Runner/solution.md) |
+|[57](#day-57)|Exploring Microsoft SQL Server|
 
 
-<a id="day-1-of-60days"></a>
+<a id="day-1"></a>
 ## Day 1  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about the basic introduction and Different Database language.
 - Introduction : SQL (Structured Query Language) is a standard programming language designed for managing and manipulating relational databases. It provides a set of commands and syntax for performing various operations on data stored in a database.
@@ -136,7 +136,7 @@
 
 ![Alt text](Assets/day6of60.png)
 
-<a id="day-7-of-60days"></a>
+<a id="day-7"></a>
 ## Day 7  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn theortical concept about Joins in SQL. JOINs are useful for allowing us to pull data from multiple tables. This is both simple and powerful all at the same time.
 - There are 4 types of JOIN commonly use in SQL
@@ -224,7 +224,7 @@
 
 ![Alt text](Assets/day13(3)of60.png)
 
-<a id="day-14-of-60days"></a>
+<a id="day-14"></a>
 ## Day 14  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Set theory in SQL Joins.
 - SQL has three main set operations, UNION, INTERSECT and EXCEPT. The Venn diagrams shown visualize the differences between them. 
@@ -247,7 +247,7 @@
 - More specifically, it retains only records from the left table that are not present in the right table.
 ![Alt text](Assets/day14(3)of60.png)
 
-<a id="day-15-of-60days"></a>
+<a id="day-15"></a>
 ## Day 15  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Subquery in SQL.
 - A Subquery or Inner query or a Nested query is a query within another SQL query and embedded within clauses, most commonly in the WHERE clause. 
@@ -258,7 +258,7 @@
 
 ![Alt text](Assets/day15(1)of60.png)
 
-<a id="day-16-of-60days"></a>
+<a id="day-16"></a>
 ## Day 16  [🔝](#table-of-contents)
 
 - During my SQL learning journey,Today I learn about theroritical and some practical related data manipulation in SQL.
@@ -285,7 +285,7 @@ Aggregate functions.
 #### CASE with AVG
 ![Alt text](Assets/day18(2)of60.png)
 
-<a id="day-19-of-60days"></a>
+<a id="day-19"></a>
 ## Day 19  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
 - A subquery is a query nested inside another query.
@@ -330,7 +330,7 @@ Aggregate functions.
 -  subquery in SELECT to compare the average number of goals scored in each stage to the total.
 ![Alt text](Assets/day23(2)of60.png)
 
-<a id="day-24-of-60days"></a>
+<a id="day-24"></a>
 ## Day 24  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Correlated subqueries.
 - Correlated subqueries are a special kind of subquery that use values from the outer query in order to generate the final results.
@@ -341,14 +341,14 @@ Aggregate functions.
 
 ![Alt text](Assets/day24of60.png)
 
-<a id="day-25-of-60days"></a>
+<a id="day-25"></a>
 ## Day 25  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Nested Subqueires.
 - I also learn about the Extract function to extract Month,Day and Year from the DATE
 
 ![Alt text](Assets/day25of60.png)
 
-<a id="day-26-of-60days"></a>
+<a id="day-26"></a>
 ## Day 26  [🔝](#table-of-contents)
 
 - During my SQL learning journey,Today I learn about Common Table Expression (CTE) 
@@ -381,7 +381,7 @@ Aggregate functions.
 ### Different use cases
 ![Alt text](Assets2/image10.png)
 
-<a id="day-29-of-60days"></a>
+<a id="day-29"></a>
 ## Day 29  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Window Function in SQL.
 - Window functions are a class of functions that perform calculations on a result set that has already been generated, also referred to as a "window".
@@ -426,7 +426,7 @@ Aggregate functions.
 
 ![Alt text](Assets/day32(2)of60.png)
 
-<a id="day-33-of-60days"></a>
+<a id="day-33"></a>
 ## Day 33  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn more about Window function.
 - Today I learn about ROW_NUMBER and LAG function.
@@ -454,7 +454,7 @@ Aggregate functions.
 
 ![Alt text](Assets/day34of60.png)
 
-<a id="day-35-of-60days"></a>
+<a id="day-35"></a>
 ## Day 35  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about
 LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
@@ -509,7 +509,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day37of60.png)
 
-<a id="day-38-of-60days"></a>
+<a id="day-38"></a>
 ## Day 38  [🔝](#table-of-contents)
 
 - During my SQL learning journey, Today I learn about Frames in SQL.
@@ -579,7 +579,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image29.png)
 
-<a id="day-41-of-60days"></a>
+<a id="day-41"></a>
 ## Day 41  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I Learn about Pivoting.
 - Pivoting transforms a table by making columns out of the unique values of one of its columns.
@@ -600,7 +600,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day41(2)of60.png)
 
-<a id="day-42-of-60days"></a>
+<a id="day-42"></a>
 ## Day 42  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I Learn about ROLLUP,CUBE, COALESCE , STRING_AGG
 
@@ -654,7 +654,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image44.png)
 
-<a id="day-43-of-60days"></a>
+<a id="day-43"></a>
 ## Day 43  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Functions to Manipulate data in PostgreSQL.
 - Learned about DATE ,TIME, TIMESTAMP, INTERVAL and ARRAY data types.
@@ -887,7 +887,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-36.png)
 
 
-<a id="day-48-of-60days"></a>
+<a id="day-48"></a>
 ## Day 48  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about creating a Temporary table simple called temp table in SQL
 
@@ -925,7 +925,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 - The delimiter can be a single character or a string of multiple characters.
 
-<a id="day-49-of-60days"></a>
+<a id="day-49"></a>
 ## Day 49  [🔝](#table-of-contents)
 - During My sql learning journey, Today I started learn about how data driven decision can be made using sql as analytical tools.
 
@@ -972,7 +972,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image-46.png)
 
-<a id="day-51-of-60days"></a>
+<a id="day-51"></a>
 ## Day 51  [🔝](#table-of-contents)
 - During My sql learning journey, Today I started learn about how data driven decision can be made using SQL OLAP (On line Analytical Processing)
 
@@ -1021,7 +1021,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day51(4)of60.png)
 
-<a id="day-52-of-60days"></a>
+<a id="day-52"></a>
 ## Day 52  [🔝](#table-of-contents)
 - So far SQL learning journey was fantastic.I get to learn lot of stuff from basic concept to advance concepts.
 - But If you analyzed your data and you're not able to communicate or delivery the insights to the business stakeholders then it's like making coffee and not even drinking it.
@@ -1037,7 +1037,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image-55.png)
 
-<a id="day-53-of-60days"></a>
+<a id="day-53"></a>
 ## Day 53  [🔝](#table-of-contents)
 - Today I have applied my SQL skills to a real world SQL project
 - This is the project I completed as the part of this SQL For Data Analysis Course.
@@ -1066,7 +1066,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 Above are the list of insight I was given to obtain from the data set.
 Click here view project 👉 [VideoGame](Projects/VideoGame.md)
 
-<a id="day-54-of-60days"></a> 
+<a id="day-54"></a> 
 ## Day 54  [🔝](#table-of-contents)
 - So far learn never ends and I believe that what have I learn till today I should be able to put that learning into some use.
 - Today I have applied my SQL skills in new project related to Online Sport Retail.
@@ -1099,7 +1099,7 @@ Click here view project 👉 [VideoGame](Projects/VideoGame.md)
 Above are the list of insight I was given to obtain from the data set.
 Click here view project 👉 [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md)
 
-<a id="day-55-of-60days"></a>
+<a id="day-55"></a>
 ## Day 55  [🔝](#table-of-contents)
 ### Case Study 1 - Danny's Diner
 ![Alt text](Assets2/image-56.png)
@@ -1115,7 +1115,7 @@ To achieve these goals, Danny needs SQL queries and simplified datasets for easy
 #### Solution
 Click here 👉[Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md)
 
-<a id="day-56-of-60days"></a>
+<a id="day-56"></a>
 ## Day 56  - [🔝](#table-of-contents)
 ### Case Study 2 - Pizza Runner
 ![Alt text](Assets2/image57.jpg)
