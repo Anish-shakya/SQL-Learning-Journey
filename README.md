@@ -1,4 +1,4 @@
-# 📚🗓️ Welcome to "60 Days of Learning SQL" For Data Analysis! 🤓📊
+# 📚🗓️ Welcome to "My Journey of Learning SQL" For Data Analysis! 🤓📊
 
 - In this Git repo, I'll embark on a SQL learning adventure 🚀💻 to become a SQL master 🎓🔍. Over the next 60 days, I'll dive into the world of databases, queries, and data manipulation! 🌐💽
 
@@ -46,10 +46,11 @@
 | [54](#day-54-of-60days) | Project 2 - [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md) |
 | [55](#day-55-of-60days) | Case Study 1 - [Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md) |
 | [56](#day-56-of-60days) | Case Study 2 - [Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS2_Pizza_Runner/solution.md) |
+|||
 
 
 <a id="day-1-of-60days"></a>
-## Day 1 of 60days [🔝](#table-of-contents)
+## Day 1  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about the basic introduction and Different Database language.
 - Introduction : SQL (Structured Query Language) is a standard programming language designed for managing and manipulating relational databases. It provides a set of commands and syntax for performing various operations on data stored in a database.
 - SQL plays a crucial role in data analysis by providing powerful tools to retrieve, filter, aggregate, and manipulate data stored in relational databases.
@@ -62,7 +63,7 @@
 |Data Control Language (DCL)|DCL commands are used to manage user access and control database privileges.|GRANT, REVOKE|
 |Transaction Control Language (TCL)|TCL commands are used to manage transactions within the database. A transaction is a sequence of database operations that should be treated as a single unit.|COMMIT, ROLLBACK, SAVEPOINT.|
 
-## Day 2 of 60days [🔝](#table-of-contents)
+## Day 2  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learned about the Entity Relationship Diagrams and Different types of Keys.
 - An Entity-Relationship Diagram (ERD) is a visual representation that depicts the entities (objects) in a database, their attributes, and the relationships between them. It helps in designing and understanding the structure of a database
 
@@ -76,7 +77,7 @@
 |Unique Key|A unique key ensures that the values in the column(s) are unique and not duplicated within a table|
 |Alternate Key|An alternate key is a candidate key that was not selected as the primary key.|
 
-## Day 3 of 60days [🔝](#table-of-contents)
+## Day 3  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about the Data Definition languages and it's commands.
 - Learned about how to create tables and different data types that are available to create tables and define the attributes of columns.
 - DataTypes 
@@ -94,7 +95,7 @@
 
 ![Alt text](Assets/day3of60.png)
 
-## Day 4 of 60days [🔝](#table-of-contents)
+## Day 4  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about the Data Manipulation languages and it's commands.
 
 | SQL Commands| Description |
@@ -106,7 +107,7 @@
 
 ![Alt text](Assets/day4of60.png)
 
-## Day 5 of 60days [🔝](#table-of-contents)
+## Day 5  [🔝](#table-of-contents)
 
 - During my SQL learning journey,I learn about different SQL Clauses.Here I learn about LIMIT, ORDER BY 
 
@@ -119,7 +120,7 @@
 
 ![Alt text](Assets/day5of60.png)
 
-## Day 6 of 60days [🔝](#table-of-contents)
+## Day 6  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about using WHERE statement with non-numeric data.We can use the = and != operators here. You need to be sure to use single quotes with the text data, not double quotes.
 
 - Commonly when we are using WHERE with non-numeric data fields, we use the AND and BETWEEN,LIKE, NOT, or IN operators.
@@ -135,7 +136,7 @@
 ![Alt text](Assets/day6of60.png)
 
 <a id="day-7-of-60days"></a>
-## Day 7 of 60days [🔝](#table-of-contents)
+## Day 7  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn theortical concept about Joins in SQL. JOINs are useful for allowing us to pull data from multiple tables. This is both simple and powerful all at the same time.
 - There are 4 types of JOIN commonly use in SQL
 
@@ -148,7 +149,7 @@
 
 ![Alt text](Assets2/image1.png)
 
-## Day 8 of 60days [🔝](#table-of-contents)
+## Day 8  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Primary KEY and Foreign KEY.
 - Primary Key(PK)
   - A primary key is a unique column in a particular table. This is the first column in each of our tables. Here, those columns are all called id, but that doesn't necessarily have to be the name. It is common that the primary key is the first column in our tables in most databases.
@@ -164,13 +165,13 @@
   - The crow's foot shows that the FK can actually appear in many rows in the sales_reps table.
   - While the single line is telling us that the PK shows that id appears only once per row in this table.
 
-## Day 9 of 60days
+## Day 9 
 - During my SQL learning journey,Today I learn about SQL Join syntax. I learn about how to join two or more table in order to fetech required data form the tables.
 -  I also learn about GROUP BY clause.The GROUP BY Statement in SQL is used to arrange identical data into groups with the help of some functions. i.e. if a particular column has the same values in different rows then it will arrange these rows in a group.
 
 ![Alt text](Assets/day9of60.png)
 
-## Day 10 of 60days [🔝](#table-of-contents)
+## Day 10  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about COUNT and DISTINCT function.Combining COUNT with DISTINCT is also common to count the number of unique values in a field.
 
 - COUNT : The COUNT function lets us do this by returning the number of records with a value in a field
@@ -180,14 +181,14 @@
 
 ![Alt text](Assets/day10of60.png)
 
-## Day 11 of 60days [🔝](#table-of-contents)
+## Day 11  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about using COUNT,DISTINCT and different operators AND, BETWEEN, IN together.
 - The LIKE and NOT LIKE operators can be used to find records that either match or do not match a specified pattern, respectively. 
 - LIKE can be coupled with the wildcards % and _. The % will match zero or many characters, and _ will match a single character.
 
 ![Alt text](Assets/day11of60.png)
 
-## Day 12 of 60days [🔝](#table-of-contents)
+## Day 12  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Aggregate Funcitons in SQL. Mostly used aggregate funtion are AVG, MAX, MIN, SUM, COUNT
 - When analyzing data, we often want to understand the dataset as a whole in addition to looking at individual records.
 - One way to summarize the data using SQL's aggregate functions. An aggregate function performs a calculation on several values and returns a single value.
@@ -203,7 +204,7 @@
 
 ![Alt text](Assets/day12of60.png)
 
-## Day 13 of 60days [🔝](#table-of-contents)
+## Day 13  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about sorting the data,Grouping the data and also use of having clause.
 - Sorting results means we want to put our data in a specific order. It's another way to make our data easier to understand by quickly seeing it in a sequence. 
 - In SQL, the ORDER BY keyword is used to sort results of one or more fields. 
@@ -223,7 +224,7 @@
 ![Alt text](Assets/day13(3)of60.png)
 
 <a id="day-14-of-60days"></a>
-## Day 14 of 60days [🔝](#table-of-contents)
+## Day 14  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Set theory in SQL Joins.
 - SQL has three main set operations, UNION, INTERSECT and EXCEPT. The Venn diagrams shown visualize the differences between them. 
 
@@ -246,7 +247,7 @@
 ![Alt text](Assets/day14(3)of60.png)
 
 <a id="day-15-of-60days"></a>
-## Day 15 of 60days [🔝](#table-of-contents)
+## Day 15  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Subquery in SQL.
 - A Subquery or Inner query or a Nested query is a query within another SQL query and embedded within clauses, most commonly in the WHERE clause. 
 - It is used to return data from a table, and this data will be used in the main query as a condition to further restrict the data to be retrieved.
@@ -257,7 +258,7 @@
 ![Alt text](Assets/day15(1)of60.png)
 
 <a id="day-16-of-60days"></a>
-## Day 16 of 60days [🔝](#table-of-contents)
+## Day 16  [🔝](#table-of-contents)
 
 - During my SQL learning journey,Today I learn about theroritical and some practical related data manipulation in SQL.
 - There are different way to shape,transform and manipulate data in SQL using CASE statement, simple subqueries and correlated subqueries and also window functions
@@ -266,13 +267,13 @@
 
 ![Alt text](Assets/day16of60.png)
 
-## Day 17 of 60days [🔝](#table-of-contents)
+## Day 17  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about to use CASE statement 
 along with logical operators like AND,OR,NOT.
 
 ![Alt text](Assets/day17of60.png)
 
-## Day 18 of 60days [🔝](#table-of-contents)
+## Day 18  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about CASE WHEN statement with
 Aggregate functions.
 - CASE statements can be used to create columns for categorizing data, and to filter your data in the WHERE clause. 
@@ -284,7 +285,7 @@ Aggregate functions.
 ![Alt text](Assets/day18(2)of60.png)
 
 <a id="day-19-of-60days"></a>
-## Day 19 of 60days [🔝](#table-of-contents)
+## Day 19  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
 - A subquery is a query nested inside another query.
 - A subquery can be placed in any part of your query -- such as the SELECT, FROM, WHERE, or GROUP BY clause. 
@@ -295,14 +296,14 @@ Aggregate functions.
 
 ![Alt text](Assets/day19of60.png)
 
-## Day 20 of 60days [🔝](#table-of-contents)
+## Day 20  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
 - I learn about the use of subqueries in  FROM statement.
 - Subqueries in the FROM statement are a robust tool for restructuring and transforming your data. 
 
 ![Alt text](Assets/day20of60.png)
 
-## Day 21 of 60days [🔝](#table-of-contents)
+## Day 21  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about using subqueries in SELECT Statement.
 - Subqueries in SELECT are used to return a single, aggregate value.
 - Subqueries in SELECT are one way to get around that. 
@@ -312,14 +313,14 @@ Aggregate functions.
 
 ![Alt text](Assets2/image5.png)
 
-## Day 22 of 60days [🔝](#table-of-contents)
+## Day 22  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I pratice writing queries about using subqueries in SELECT Statement.
 
 ![Alt text](Assets/day22(1)of60.png)
 
 ![Alt text](Assets/day22(2)of60.png)
 
-## Day 23 of 60days [🔝](#table-of-contents)
+## Day 23  [🔝](#table-of-contents)
 -  During my SQL learning journey,Today I pratice more writing advance queries about using subqueries.
 
 - subquery to extract a list of stages where the average home goals in a stage is higher than the overall average for home goals in a match.
@@ -329,7 +330,7 @@ Aggregate functions.
 ![Alt text](Assets/day23(2)of60.png)
 
 <a id="day-24-of-60days"></a>
-## Day 24 of 60days [🔝](#table-of-contents)
+## Day 24  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Correlated subqueries.
 - Correlated subqueries are a special kind of subquery that use values from the outer query in order to generate the final results.
 - The subquery is re-executed each time a new row in the final data set is returned, in order to properly generate each new piece of information. 
@@ -340,14 +341,14 @@ Aggregate functions.
 ![Alt text](Assets/day24of60.png)
 
 <a id="day-25-of-60days"></a>
-## Day 25 of 60days [🔝](#table-of-contents)
+## Day 25  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Nested Subqueires.
 - I also learn about the Extract function to extract Month,Day and Year from the DATE
 
 ![Alt text](Assets/day25of60.png)
 
 <a id="day-26-of-60days"></a>
-## Day 26 of 60days [🔝](#table-of-contents)
+## Day 26  [🔝](#table-of-contents)
 
 - During my SQL learning journey,Today I learn about Common Table Expression (CTE) 
 -  Common table expressions, or CTEs are a special type of subquery that is declared ahead of your main query.
@@ -362,7 +363,7 @@ Aggregate functions.
 
 ![Alt text](Assets2/image8.png)
 
-## Day 27 of 60days [🔝](#table-of-contents)
+## Day 27  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I pratice writing about Common Table Expression (CTE)
 
 ![Alt text](Assets/day27(1)of60.png)
@@ -370,7 +371,7 @@ Aggregate functions.
 ![Alt text](Assets/day27(2)of60.png)
 
 ![Alt text](Assets/day27(3)of60.png)
-## Day 28 of 60days [🔝](#table-of-contents)
+## Day 28  [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about difference between different techniques.
 
 ### Why using different techniques??
@@ -380,7 +381,7 @@ Aggregate functions.
 ![Alt text](Assets2/image10.png)
 
 <a id="day-29-of-60days"></a>
-## Day 29 of 60days [🔝](#table-of-contents)
+## Day 29  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Window Function in SQL.
 - Window functions are a class of functions that perform calculations on a result set that has already been generated, also referred to as a "window".
 - I Learn the concept about RANK function.
@@ -391,7 +392,7 @@ Aggregate functions.
 #### Using RANK() function 
 ![Alt text](Assets/day29(2)of60.png)
 
-## Day 30 of 60days [🔝](#table-of-contents)
+## Day 30  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about OVER with PARTITION BY.
 - One Important statement we can add to our OVER clause is PARTITION BY.
 - A partition allows us to calculate separate values for different categories established in a partition. 
@@ -400,7 +401,7 @@ Aggregate functions.
 
 ![Alt text](Assets/day30(2)of60.png)
 
-## Day 31 of 60days [🔝](#table-of-contents)
+## Day 31  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Sliding Window.
 -  A window functions can also be used to calculate information that changes with each subsequent row in a data set.
 - We can use sliding windows to calculate a wide variety of information that aggregates one row at a time down your data set like running totals, sums, counts, and averages in any order we need.
@@ -417,7 +418,7 @@ Aggregate functions.
 
 ![Alt text](Assets2/image12.png)
 
-## Day 32 of 60days [🔝](#table-of-contents)
+## Day 32  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I pratice writing queries about Sliding Window.
 
 ![Alt text](Assets/day32(1)of60.png)
@@ -425,7 +426,7 @@ Aggregate functions.
 ![Alt text](Assets/day32(2)of60.png)
 
 <a id="day-33-of-60days"></a>
-## Day 33 of 60days [🔝](#table-of-contents)
+## Day 33  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn more about Window function.
 - Today I learn about ROW_NUMBER and LAG function.
 - ROW_NUMBER assigns a number to each row.
@@ -440,7 +441,7 @@ Aggregate functions.
 ![Alt text](Assets/day33(2)of60.png)
 ![Alt text](Assets2/image14.png)
 
-## Day 34 of 60days [🔝](#table-of-contents)
+## Day 34  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn more about using LAG() function with PARTITION BY.
 - Enter PARTITION BY. This OVER subclause splits the table into partitions based on a column's unique values, similar to GROUP BY.
 
@@ -453,7 +454,7 @@ Aggregate functions.
 ![Alt text](Assets/day34of60.png)
 
 <a id="day-35-of-60days"></a>
-## Day 35 of 60days [🔝](#table-of-contents)
+## Day 35  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about
 LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
@@ -470,7 +471,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day35of60.png)
 
-## Day 36 of 60days [🔝](#table-of-contents)
+## Day 36  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn more about ranking functions.
 
 |Function|Description|
@@ -497,7 +498,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day36(2)of60.png)
 
-## Day 37 of 60days [🔝](#table-of-contents)
+## Day 37  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Paging.
 - Paging is another common application of window functions.
 - Paging is splitting data into (approximately) equal chunks.
@@ -508,7 +509,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day37of60.png)
 
 <a id="day-38-of-60days"></a>
-## Day 38 of 60days [🔝](#table-of-contents)
+## Day 38  [🔝](#table-of-contents)
 
 - During my SQL learning journey, Today I learn about Frames in SQL.
 - A Frame is a RANGE BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING.
@@ -540,7 +541,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image22.png)
 
-## Day 39 of 60days [🔝](#table-of-contents)
+## Day 39  [🔝](#table-of-contents)
 -  During my SQL learning journey, Today I pratice on how we can use frames to change the behaviour of window and aggregate function in sql.
 
 ![Alt text](Assets/day39(1)of60.png)
@@ -549,7 +550,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day39(2)of60.png)
 
-## Day 40 of 60days [🔝](#table-of-contents)
+## Day 40  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I Learn about Moving averages and total in SQL.
 - One of the most common uses for aggregate window functions with frames is the calculation of moving averages and totals.
 - A moving average is the average of the last n periods of a column's values
@@ -578,7 +579,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image29.png)
 
 <a id="day-41-of-60days"></a>
-## Day 41 of 60days [🔝](#table-of-contents)
+## Day 41  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I Learn about Pivoting.
 - Pivoting transforms a table by making columns out of the unique values of one of its columns.
 
@@ -599,7 +600,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day41(2)of60.png)
 
 <a id="day-42-of-60days"></a>
-## Day 42 of 60days [🔝](#table-of-contents)
+## Day 42  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I Learn about ROLLUP,CUBE, COALESCE , STRING_AGG
 
 ### ROLLLUP
@@ -653,7 +654,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image44.png)
 
 <a id="day-43-of-60days"></a>
-## Day 43 of 60days [🔝](#table-of-contents)
+## Day 43  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Functions to Manipulate data in PostgreSQL.
 - Learned about DATE ,TIME, TIMESTAMP, INTERVAL and ARRAY data types.
 
@@ -701,7 +702,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day43(3)of60.png)
 
-## Day 44 of 60days [🔝](#table-of-contents)
+## Day 44  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about following topics under Data Manipulating funtions in postgreSQL
 - The CURRENT_DATE,CRRENT_TIMESTAMP,NOW() function
 - The AGE() function
@@ -734,7 +735,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image-15.png)
 
-## Day 45 of 60days [🔝](#table-of-contents)
+## Day 45  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about 
  following topics under Data Manipulating funtions in postgreSQL
 - Reformatting string and character data.
@@ -800,7 +801,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day45(3)of60.png)
 
-## Day 46 of 60days [🔝](#table-of-contents)
+## Day 46  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about  User-define data types in SQL.
 - A user-defined data type is created using the CREATE TYPE command which registers the type in a system table and makes it available to be used anywhere PostgreSQL expects a type name.
 - Enumerated data types or enums allow you to define a custom list of values that are never going to change
@@ -850,7 +851,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image-32.png)
 
-## Day 47 of 60days [🔝](#table-of-contents)
+## Day 47  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Expolatory Data Analysis in SQL.
 - Using coalesce() function to specifyping a default or backup value when a comun contains NULL values.
     - coalesce(NUll,1,2) =1
@@ -886,7 +887,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 
 <a id="day-48-of-60days"></a>
-## Day 48 of 60days [🔝](#table-of-contents)
+## Day 48  [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about creating a Temporary table simple called temp table in SQL
 
 ![Alt text](Assets2/image-37.png)
@@ -924,7 +925,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - The delimiter can be a single character or a string of multiple characters.
 
 <a id="day-49-of-60days"></a>
-## Day 49 of 60days [🔝](#table-of-contents)
+## Day 49  [🔝](#table-of-contents)
 - During My sql learning journey, Today I started learn about how data driven decision can be made using sql as analytical tools.
 
 #### Data Driven Decision Making
@@ -946,7 +947,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - Subqueries, also known as nested queries or inner queries, are a powerful tool in SQL for performing data-driven decision-making during data analysis.
 - They allow you to use the results of one query as input to another query, enabling more complex and flexible data manipulations
 
-## Day 50 of 60days [🔝](#table-of-contents)
+## Day 50  [🔝](#table-of-contents)
 - During My sql learning journey, Today I started learn about how data driven decision can be made using SQL nested sub Queries
 - we can use as many nested sub queries as we want to fetch the result
 
@@ -971,7 +972,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-46.png)
 
 <a id="day-51-of-60days"></a>
-## Day 51 of 60days [🔝](#table-of-contents)
+## Day 51  [🔝](#table-of-contents)
 - During My sql learning journey, Today I started learn about how data driven decision can be made using SQL OLAP (On line Analytical Processing)
 
 ## OLAP (On Line Analytical Processing)
@@ -1020,7 +1021,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day51(4)of60.png)
 
 <a id="day-52-of-60days"></a>
-## Day 52 of 60days [🔝](#table-of-contents)
+## Day 52  [🔝](#table-of-contents)
 - So far SQL learning journey was fantastic.I get to learn lot of stuff from basic concept to advance concepts.
 - But If you analyzed your data and you're not able to communicate or delivery the insights to the business stakeholders then it's like making coffee and not even drinking it.
 - Data Story Telling and communication in one of the top most important skill a Data Analyst must have.It translate technical results for non-technical stakeholders
@@ -1036,7 +1037,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-55.png)
 
 <a id="day-53-of-60days"></a>
-## Day 53 of 60days [🔝](#table-of-contents)
+## Day 53  [🔝](#table-of-contents)
 - Today I have applied my SQL skills to a real world SQL project
 - This is the project I completed as the part of this SQL For Data Analysis Course.
 
@@ -1065,7 +1066,7 @@ Above are the list of insight I was given to obtain from the data set.
 Click here view project 👉 [VideoGame](Projects/VideoGame.md)
 
 <a id="day-54-of-60days"></a> 
-## Day 54 of 60days [🔝](#table-of-contents)
+## Day 54  [🔝](#table-of-contents)
 - So far learn never ends and I believe that what have I learn till today I should be able to put that learning into some use.
 - Today I have applied my SQL skills in new project related to Online Sport Retail.
 - This is also a project I completed as the part of this SQL For Data Analysis Course.
@@ -1098,7 +1099,7 @@ Above are the list of insight I was given to obtain from the data set.
 Click here view project 👉 [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md)
 
 <a id="day-55-of-60days"></a>
-## Day 55 of 60days [🔝](#table-of-contents)
+## Day 55  [🔝](#table-of-contents)
 ### Case Study 1 - Danny's Diner
 ![Alt text](Assets2/image-56.png)
 
@@ -1114,7 +1115,7 @@ To achieve these goals, Danny needs SQL queries and simplified datasets for easy
 Click here 👉[Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md)
 
 <a id="day-56-of-60days"></a>
-## Day 56 of 60days - [🔝](#table-of-contents)
+## Day 56  - [🔝](#table-of-contents)
 ### Case Study 2 - Pizza Runner
 ![Alt text](Assets2/image57.jpg)
 #### Problem Statement
@@ -1125,10 +1126,6 @@ Click here 👉[Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies
 #### Solution
 Click here 👉[Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS2_Pizza_Runner/solution.md)
 
-## Day 57 of 60days 
+## Day 57 
+### Exploring SQL Server
 
-### Case Study 3 - Foodie-Fi
-
-## Day 58 of 60days 
-## Day 59 of 60days 
-## Day 60 of 60days 
