@@ -1129,4 +1129,7 @@ Click here 👉[Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/b
 
 ## Day 57 
 ### Exploring SQL Server
-
+- Since I already have a solid foundation in SQL, I want to explore other SQL platforms and understand the differences in syntax and overall features.I created a separate repository to track SQL Server-specific syntax and examples.
+- My focus will be on intermediate to advanced-level concepts in SQL Server.
+- Getting to know and becoming familiar with different SQL platforms is always beneficial for broadening my skill set and adapting to various environments
+Click here 👉[MSSQL Sever Repo]()
